@@ -1,3 +1,3 @@
 # Notes
- Random Notes
-asdf
+
+## Creating a location to store things I think are interesting
