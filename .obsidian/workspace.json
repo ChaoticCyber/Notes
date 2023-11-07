@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Qol.md",
+                "file": "HTB/Unorganized.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Qol.md",
+                "file": "HTB/Unorganized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Qol.md",
+                "file": "HTB/Unorganized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Qol.md"
+                "file": "HTB/Unorganized.md"
               }
             }
+          },
+          {
+            "id": "38fa33b278589d52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef5f1041a1fcecc1",
+  "active": "01d81384f9e417ca",
   "lastOpenFiles": [
-    "README.md",
+    "HTB/Things",
     "HTB/Qol.md",
+    "HTB/Unorganized.md",
+    "README.md",
     "HTB"
   ]
 }

@@ -13,3 +13,6 @@ echo $TERM
 
 export TERM=xterm
 ```
+
+
+auto
