@@ -19,5 +19,9 @@ echo $TERM
 export TERM=xterm
 ```
 
+script not found?
+- doing this without will severly mess up your terminal by offsetting text
+- 
+
 
 auto
