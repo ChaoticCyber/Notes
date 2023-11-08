@@ -20,8 +20,5 @@ export TERM=xterm
 ```
 
 script not found?
-- doing this without will severly mess up your terminal by offsetting text
-- 
-
-
-auto
+- doing this without will severely mess up your terminal by offsetting text
+- However, it will allow you the ability to up arrow previous commands, lol
