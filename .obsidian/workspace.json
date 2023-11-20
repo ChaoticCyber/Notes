@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Hospital/drwilliams/emails.md",
+                "file": "HTB/Hospital/expsuggester.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xfree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Hospital/drwilliams/emails.md",
+                "file": "HTB/Hospital/expsuggester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Hospital/drwilliams/emails.md",
+                "file": "HTB/Hospital/expsuggester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Hospital/drwilliams/emails.md"
+                "file": "HTB/Hospital/expsuggester.md"
               }
             }
           },
@@ -155,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f89a1bd3169cfa8",
+  "active": "ef5f1041a1fcecc1",
   "lastOpenFiles": [
-    "HTB/Hospital/drwilliams/users.md",
     "HTB/Hospital/drwilliams/emails.md",
+    "HTB/Hospital/expsuggester.md",
+    "HTB/Hospital/drwilliams/users.md",
     "Pasted image 20231119191520.png",
     "HTB/Hospital/drwilliams",
     "HTB/Hospital/MariaDB/Users.md",
