@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "xfree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef5f1041a1fcecc1",
+  "active": "4f89a1bd3169cfa8",
   "lastOpenFiles": [
     "HTB/Hospital/drwilliams/users.md",
     "HTB/Hospital/drwilliams/emails.md",
