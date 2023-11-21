@@ -1,5 +1,5 @@
 
-`tar czvpf - ./[encdir] | gpg --symmetric --no-symkey-cache --cipher-algo aes256 -o [filename]`
+`tar czvpf - ./[encdir] | gpg --symmetric --no-symkey-cache --cipher-algo aes256 -o [filename].tar.gz.gpg`
 
 
-`gpg -d [decrypt] | tar -xvzf -`
+`gpg -d [decryptfilename] | tar -xvzf -`
