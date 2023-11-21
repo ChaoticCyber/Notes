@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59b8fcd2c5bdd18b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hydra.md",
+                "file": "crypt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hydra.md",
+                "file": "crypt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hydra.md"
+                "file": "crypt.md"
               }
             }
           },
@@ -167,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2b29e875413fc15",
+  "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
-    "README.md",
     "hydra.md",
+    "crypt.md",
+    "README.md",
     "HTB/Hospital/expsuggester.md",
     "HTB/Hospital/drwilliams/emails.md",
     "HTB/Hospital/drwilliams/users.md",
