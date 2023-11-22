@@ -35,11 +35,9 @@
             "id": "59b8fcd2c5bdd18b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "HTB/Medtech/192.168.210.122.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231119191520.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/Medtech/192.168.210.122.md",
+                "file": "images/Pasted image 20231119191520.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/Medtech/192.168.210.122.md",
+                "file": "images/Pasted image 20231119191520.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/Medtech/192.168.210.122.md"
+                "file": "images/Pasted image 20231119191520.png"
               }
             }
           },
@@ -179,21 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59b8fcd2c5bdd18b",
+  "active": "01d81384f9e417ca",
   "lastOpenFiles": [
-    "HTB/Medtech/192.168.210.121.md",
-    "HTB/Medtech/192.168.210.122.md",
-    "HTB/Medtech/192.168.210.120.md",
-    "HTB/Medtech/172.16.210.83.md",
-    "HTB/Medtech/172.16.210.82.md",
-    "HTB/Medtech/172.16.210.14.md",
-    "HTB/Medtech/172.16.210.13.md",
-    "HTB/Medtech/172.16.210.12.md",
-    "HTB/Medtech/172.16.210.11.md",
-    "HTB/Medtech/172.16.210.10.md",
-    "HTB/Medtech/Notes.md",
+    "images",
+    "Medtech/192.168.210.122.md",
+    "Medtech/192.168.210.121.md",
+    "Medtech/192.168.210.120.md",
+    "Medtech/172.16.210.83.md",
+    "Medtech/172.16.210.82.md",
+    "Medtech/172.16.210.14.md",
+    "Medtech/172.16.210.13.md",
+    "Medtech/172.16.210.12.md",
+    "Medtech/172.16.210.11.md",
+    "Medtech/172.16.210.10.md",
+    "Medtech/Notes.md",
     "HTB/Hospital/nmap.md",
-    "HTB/Medtech",
+    "Medtech",
     "HTB/Qol.md",
     "hydra.md",
     "crypt.md",
@@ -201,7 +200,7 @@
     "HTB/Hospital/expsuggester.md",
     "HTB/Hospital/drwilliams/emails.md",
     "HTB/Hospital/drwilliams/users.md",
-    "Pasted image 20231119191520.png",
+    "images/Pasted image 20231119191520.png",
     "HTB/Hospital/drwilliams",
     "HTB/Hospital/MariaDB/Users.md",
     "HTB/Hospital/config.php.md",
