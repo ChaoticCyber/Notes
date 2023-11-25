@@ -6,7 +6,7 @@ goomba 8e9e1516818ce4e54247e71e71b5f436
 toad 5be63a865b65349851c1f11a067a3068
 mario - unk
 wario fdf36048c1cf88f5630381c5e38feb8e --- Mushroom!
-yoshi - unk
+yoshi - unk - Mushroom!
 
 
 CLIENT02\Administrator 00fd074ec24fd70c76727ee9b2d7aacd
