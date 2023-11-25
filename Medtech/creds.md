@@ -9,7 +9,7 @@ wario fdf36048c1cf88f5630381c5e38feb8e --- Mushroom!
 yoshi - unk
 
 
-
+CLIENT02\Administrator 00fd074ec24fd70c76727ee9b2d7aacd
 Administrator MEGACORP_4dm1n!! --D0DF2041ED1515D16AC3CE5BCD9F1FE8
 
 FILES02\Administrator f1014ac49bae005ee3ece5f47547d185 - no winrm to client02
