@@ -14,4 +14,4 @@ Administrator MEGACORP_4dm1n!! --D0DF2041ED1515D16AC3CE5BCD9F1FE8
 
 FILES02\Administrator f1014ac49bae005ee3ece5f47547d185 - no winrm to client02
 WEB02\Administrator b2c03054c306ac8fc5f9d188710b0168
-```
+```CLIENT02\offsec 2892d26cdf84d7a70e2eb3b9f05c425e
