@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medtech/172.16.210.12 DEV04.md",
+                "file": "Medtech/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medtech/172.16.210.12 DEV04.md",
+                "file": "Medtech/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medtech/172.16.210.12 DEV04.md",
+                "file": "Medtech/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medtech/172.16.210.12 DEV04.md"
+                "file": "Medtech/Notes.md"
               }
             }
           },
@@ -181,17 +181,18 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "crypt.md",
+    "Medtech/2_172.16.210.11 FILE02.md",
+    "Medtech/creds.md",
+    "Medtech/172.16.210.12 DEV04.md",
     "Medtech/172.16.210.10 DC01.md",
     "Medtech/6_172.16.210.14 NTP.md",
     "Medtech/5_192.168.210.122 VPN.md",
     "Medtech/4_172.16.210.82 CLIENT01.md",
     "Medtech/3_172.16.210.83 CLIENT02.md",
-    "Medtech/2_172.16.210.11 FILE02.md",
     "Medtech/1_192.168.210.121 WEB02.md",
-    "Medtech/creds.md",
     "Medtech/172.16.210.13 PROD01.md",
     "Medtech/Notes.md",
-    "Medtech/172.16.210.12 DEV04.md",
     "Medtech/192.168.210.120.md",
     "images/Pasted image 20231122135646.png",
     "HTB/Hospital/drwilliams/users.md",
@@ -208,7 +209,6 @@
     "images",
     "Medtech",
     "hydra.md",
-    "crypt.md",
     "README.md",
     "HTB/Hospital/drwilliams",
     "HTB/Hospital/MariaDB",
