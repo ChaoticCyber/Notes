@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "c2b29e875413fc15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hydra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59b8fcd2c5bdd18b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relia/Untitled.md",
+                "file": "crypt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relia/Untitled.md",
+                "file": "crypt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relia/Untitled.md",
+                "file": "crypt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relia/Untitled.md"
+                "file": "crypt.md"
               }
             }
           },
@@ -180,25 +168,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01d81384f9e417ca",
+  "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "Notes.md",
+    "hydra.md",
+    "crypt.md",
+    "Template/creds.md",
+    "Template/192.168.X.X/3_Privesc.md",
+    "Template/192.168.X.X/2_Interesting.md",
+    "Template/192.168.X.X/1_Initial Access.md",
+    "Template/1_192.168.X.X",
+    "offsec/Relia/Untitled.md",
+    "Template/192.168.X.X",
+    "offsec",
     "Template",
     "images/Pasted image 20231126095827.png",
-    "Medtech/Notes.md",
-    "Relia/Untitled.md",
-    "Relia",
-    "Medtech/7_172.16.210.12 DEV04.md",
-    "Medtech/creds.md",
-    "crypt.md",
-    "Medtech/2_172.16.210.11 FILE02.md",
-    "Medtech/172.16.210.10 DC01.md",
-    "Medtech/6_172.16.210.14 NTP.md",
-    "Medtech/5_192.168.210.122 VPN.md",
-    "Medtech/4_172.16.210.82 CLIENT01.md",
-    "Medtech/3_172.16.210.83 CLIENT02.md",
-    "Medtech/1_192.168.210.121 WEB02.md",
-    "Medtech/172.16.210.13 PROD01.md",
-    "Medtech/192.168.210.120.md",
+    "offsec/Relia",
+    "offsec/Medtech/7_172.16.210.12 DEV04.md",
+    "offsec/Medtech/creds.md",
+    "offsec/Medtech/2_172.16.210.11 FILE02.md",
+    "offsec/Medtech/172.16.210.10 DC01.md",
+    "offsec/Medtech/6_172.16.210.14 NTP.md",
+    "offsec/Medtech/5_192.168.210.122 VPN.md",
+    "offsec/Medtech/4_172.16.210.82 CLIENT01.md",
+    "offsec/Medtech/3_172.16.210.83 CLIENT02.md",
+    "offsec/Medtech/1_192.168.210.121 WEB02.md",
+    "offsec/Medtech/172.16.210.13 PROD01.md",
+    "offsec/Medtech/192.168.210.120.md",
     "images/Pasted image 20231122135646.png",
     "HTB/Hospital/drwilliams/users.md",
     "HTB/Hospital/drwilliams/emails.md",
@@ -207,18 +203,12 @@
     "HTB/Hospital/expsuggester.md",
     "HTB/Hospital/nmap.md",
     "HTB/Hospital/p0wny.phar.md",
-    "HTB/Qol.md",
-    "HTB/Unorganized.md",
     "images/Pasted image 20231122100801.png",
     "images/Pasted image 20231119191520.png",
     "images",
-    "Medtech",
-    "hydra.md",
-    "README.md",
+    "offsec/Medtech",
     "HTB/Hospital/drwilliams",
     "HTB/Hospital/MariaDB",
-    "HTB/Hospital",
-    "HTB/Things",
-    "HTB"
+    "HTB/Hospital"
   ]
 }
