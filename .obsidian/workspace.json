@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "offsec/Relia/Notes.md",
+                "file": "offsec/Relia/192.168.247.189/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "offsec/Relia/Notes.md",
+                "file": "offsec/Relia/192.168.247.189/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "offsec/Relia/Notes.md",
+                "file": "offsec/Relia/192.168.247.189/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "offsec/Relia/Notes.md"
+                "file": "offsec/Relia/192.168.247.189/Notes.md"
               }
             }
           },
@@ -170,6 +170,23 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "offsec/Relia/Notes.md",
+    "offsec/Relia/172.16.137.6/Notes.md",
+    "offsec/Relia/172.16.137.7/Notes.md",
+    "offsec/Relia/172.16.137.14/Notes.md",
+    "offsec/Relia/172.16.137.15/Notes.md",
+    "offsec/Relia/172.16.137.19/Notes.md",
+    "offsec/Relia/172.16.137.20/Notes.md",
+    "offsec/Relia/172.16.137.21/Notes.md",
+    "offsec/Relia/172.16.137.30/Notes.md",
+    "offsec/Relia/192.168.247.250/Notes.md",
+    "offsec/Relia/192.168.247.249/Notes.md",
+    "offsec/Relia/192.168.247.248/Notes.md",
+    "offsec/Relia/192.168.247.247/Notes.md",
+    "offsec/Relia/192.168.247.246/Notes.md",
+    "offsec/Relia/192.168.247.245/Notes.md",
+    "offsec/Relia/192.168.247.191/Notes.md",
+    "offsec/Relia/192.168.247.189/Notes.md",
     "offsec/Relia/172.16.137.20/3_Privesc.md",
     "offsec/Relia/172.16.137.20/2_Interesting.md",
     "offsec/Relia/172.16.137.20/1_Initial Access.md",
@@ -182,28 +199,11 @@
     "offsec/Relia/192.168.247.189/3_Privesc.md",
     "offsec/Relia/192.168.247.189/1_Initial Access.md",
     "offsec/Relia/192.168.247.189",
-    "offsec/Relia/192.168.247.249 - Copy/3_Privesc.md",
-    "offsec/Relia/192.168.247.249 - Copy/2_Interesting.md",
-    "offsec/Relia/192.168.247.249 - Copy/1_Initial Access.md",
     "offsec/Relia/192.168.247.249 - Copy",
-    "offsec/Relia/192.168.247.191/3_Privesc.md",
-    "offsec/Relia/192.168.247.191/2_Interesting.md",
-    "offsec/Relia/192.168.247.191/1_Initial Access.md",
     "offsec/Relia/192.168.247.191",
-    "offsec/Relia/192.168.247.245/2_Interesting.md",
-    "offsec/Relia/192.168.247.245/3_Privesc.md",
-    "offsec/Relia/192.168.247.245/1_Initial Access.md",
     "offsec/Relia/192.168.247.245",
-    "offsec/Relia/192.168.247.246/2_Interesting.md",
-    "offsec/Relia/192.168.247.246/3_Privesc.md",
-    "offsec/Relia/192.168.247.246/1_Initial Access.md",
     "offsec/Relia/192.168.247.246",
-    "offsec/Relia/192.168.247.247/2_Interesting.md",
-    "offsec/Relia/192.168.247.247/3_Privesc.md",
-    "offsec/Relia/192.168.247.247/1_Initial Access.md",
     "offsec/Relia/192.168.247.247",
-    "offsec/Relia/192.168.247.248/2_Interesting.md",
-    "offsec/Relia/192.168.247.248/1_Initial Access.md",
     "offsec/Relia/192.168.247.248",
     "offsec/Relia/192.168.247.249",
     "images/Pasted image 20231126095827.png",
