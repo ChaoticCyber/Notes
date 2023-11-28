@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Converge/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encrypt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Converge/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Converge/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Converge/Start.md"
               }
             }
           },
@@ -171,6 +170,7 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "Notes.md",
     "Converge/Notes.md",
     "Converge/Report reqs.md",
     "Converge/Start.md",
@@ -198,7 +198,6 @@
     "offsec/Relia/172.16.137.6/Notes.md",
     "offsec/Relia/172.16.137.7/Notes.md",
     "offsec/Relia/172.16.137.14/Notes.md",
-    "offsec/Relia/172.16.137.15/Notes.md",
     "offsec/Relia/172.16.137.20",
     "offsec/Relia/172.16.137.14 - Copy",
     "offsec/Relia/192.168.247.189 MAIL",
