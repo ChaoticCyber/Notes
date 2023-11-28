@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Converge/Screenshots.md",
+                "file": "Converge/Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Converge/Screenshots.md",
+                "file": "Converge/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Converge/Screenshots.md",
+                "file": "Converge/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Converge/Screenshots.md"
+                "file": "Converge/Start.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "Converge/10.7.0.6/Notes.md",
+    "Converge/10.7.0.5/Notes.md",
+    "Converge/10.7.0.4/Notes.md",
+    "Converge/Screenshots.md",
     "Converge/10.7.0.134/Notes.md",
     "Converge/10.7.0.134/3_Privesc.md",
     "Converge/10.7.0.134/2_Interesting.md",
@@ -197,11 +201,7 @@
     "Converge/10.7.0.99",
     "Converge/10.7.0.8/Notes.md",
     "Converge/10.7.0.8/2_Interesting.md",
-    "Converge/10.7.0.8/3_Privesc.md",
-    "Converge/10.7.0.8/1_Initial Access.md",
     "Converge/10.7.0.8",
-    "Converge/10.7.0.7/Notes.md",
-    "Converge/10.7.0.7/3_Privesc.md",
     "Converge/10.7.0.7",
     "Converge/10.7.0.6",
     "Converge/10.7.0.5",
