@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Converge/Notes.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "encrypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Converge/Notes.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Converge/Notes.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Converge/Notes.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -170,8 +171,8 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
-    "Converge/Report reqs.md",
     "Converge/Notes.md",
+    "Converge/Report reqs.md",
     "Converge/Start.md",
     "Converge/192.168.X.X/Notes.md",
     "offsec/Relia/2_192.168.247.246 DEMO/3_Privesc.md",
