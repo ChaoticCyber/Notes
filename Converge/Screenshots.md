@@ -10,3 +10,6 @@
 
 
 ![[Pasted image 20231128122515.png]]
+
+
+![[Pasted image 20231128123234.png]]
