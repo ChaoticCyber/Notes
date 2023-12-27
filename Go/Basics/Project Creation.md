@@ -20,5 +20,3 @@
 - internal/dbcreation/dbcreation.go
 - internal/routes/routes.go
 - etc.
-
-asdf  asdf    asdf  asdf  asdf. 
