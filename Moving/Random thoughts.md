@@ -38,8 +38,6 @@ Day 5: Wed 14 FEB
 
 
 
-![[Pasted image 20240126115450.png]]
-
 
 
 Not on truck
