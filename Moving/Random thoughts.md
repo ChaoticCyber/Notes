@@ -17,22 +17,24 @@ Consolidate the Garage items into bins
 
 
 
-Day 1: Tue
-- Pick up the truck
+Day 1: Saturday 10 FEB
+- Pick up the truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
-Day 2: Wed
+Day 2: Sun
 - Leave early to MD (0400)
 - Arrive 1500ish
 - Get a full CAT scale ticket
 - Unload a little bit
-Day 3:  Thu
+Day 3:  Mon
 - Unload remaining items
 - Return truck
-Day 4: Fri
+Day 4: Tue
 - orgainze / relax
-Day 5:
+Day 5: Wed
 - Airport to AGS
+
+
 
 ![[Pasted image 20240126115450.png]]
 
