@@ -23,17 +23,17 @@ Day 1: Saturday 10 FEB
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
-Day 2: Sun
+Day 2: Sun 11 FEB
 - Leave early to MD (0400)
 - Arrive 1500ish
 - Get a full CAT scale ticket
 - Unload a little bit
-Day 3:  Mon
+Day 3:  Mon 12 FEB
 - Unload remaining items
 - Return truck
-Day 4: Tue
+Day 4: Tue 13 FEB
 - orgainze / relax
-Day 5: Wed
+Day 5: Wed 14 FEB
 - Airport to AGS
 
 
