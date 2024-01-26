@@ -16,6 +16,19 @@ move stuff from the Green house to the shed
 Consolidate the Garage items into bins
 
 
+Day 1:
+- Pick up the truck
+- Load all the items into truck
+Day 2:
+- Leave early to MD (0400)
+- Arrive 1500ish
+- Unload a little bit
+Day 3: 
+- Unload remaining items
+- Return truck
+
+Airport?
+
 ![[Pasted image 20240126115450.png]]
 
 
