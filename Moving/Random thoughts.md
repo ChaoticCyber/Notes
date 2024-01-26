@@ -16,18 +16,23 @@ move stuff from the Green house to the shed
 Consolidate the Garage items into bins
 
 
-Day 1:
+
+Day 1: Tue
 - Pick up the truck
+- Drive to get an empty weight ticket
 - Load all the items into truck
-Day 2:
+Day 2: Wed
 - Leave early to MD (0400)
 - Arrive 1500ish
+- Get a full CAT scale ticket
 - Unload a little bit
-Day 3: 
+Day 3:  Thu
 - Unload remaining items
 - Return truck
-
-Airport?
+Day 4: Fri
+- orgainze / relax
+Day 5:
+- Airport to AGS
 
 ![[Pasted image 20240126115450.png]]
 
@@ -42,3 +47,4 @@ Not on truck
 - computer
 - folding chairs
 - luggage
+- paint sprayer
