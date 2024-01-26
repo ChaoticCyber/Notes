@@ -15,7 +15,7 @@ Take apart the dining room table
 move stuff from the Green house to the shed
 Consolidate the Garage items into bins
 
-
+$660
 
 Day 1: Saturday 10 FEB
 - Pick up the truck 1000
