@@ -16,9 +16,6 @@ move stuff from the Green house to the shed
 Consolidate the Garage items into bins
 
 
-
-$660
-
 Day 1: Saturday 10 FEB
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
@@ -37,9 +34,6 @@ Day 5: Wed 14 FEB
 - Airport to AGS
 
 
-
-
-
 Not on truck
 - Pressure washer
 - lawn mower
@@ -50,3 +44,27 @@ Not on truck
 - folding chairs
 - luggage
 - paint sprayer
+
+
+
+
+
+Inside stuff
+- Mud & tape garage
+- Fill holes
+- Paint rooms
+- Paint kitchen 
+- Replace carpet
+- Replace doors
+- Fix drywall behind Washer & dryer
+- Fix the kitchen passthrough
+- Clean Air vents
+- Clean toilet connec
+
+Outside Stuff
+- Clean out Greenhouse
+- Paint shed
+- Schedule Roof replacement?
+- Clean Gutters
+- Pressure wash driveway
+- Pressure wash bricks
