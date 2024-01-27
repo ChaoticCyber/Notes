@@ -46,12 +46,8 @@ Not on truck
 - paint sprayer
 
 
-
-
-
 Inside stuff
-- Fill holes
-- Replace carpet
+- Fill holes in the sheetrock
 - Replace doors
 - Fix the chewed up trim
 - Fix drywall behind Washer & dryer
@@ -62,6 +58,7 @@ Inside stuff
 - Install Master bathroom towel rack and toilet thingy
 - Paint rooms 
 - Paint kitchen 
+- Replace carpet
 - Mud & tape garage
 
 Outside Stuff
