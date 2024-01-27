@@ -50,21 +50,31 @@ Not on truck
 
 
 Inside stuff
-- Mud & tape garage
 - Fill holes
-- Paint rooms
-- Paint kitchen 
 - Replace carpet
 - Replace doors
+- Fix the chewed up trim
 - Fix drywall behind Washer & dryer
 - Fix the kitchen passthrough
 - Clean Air vents
 - Clean toilet connectors
+- Caulk the bathroom sinks? Replace?
+- Install Master bathroom towel rack and toilet thingy
+- Paint rooms 
+- Paint kitchen 
+- Mud & tape garage
 
 Outside Stuff
 - Clean out Greenhouse
 - Paint shed
+- Fill holes in siding and paint
 - Schedule Roof replacement?
 - Clean Gutters
 - Pressure wash driveway
 - Pressure wash bricks
+- Garage crack?
+- Mulch
+- Fix the motion lights and the ugliness
+- Fix the detached metal siding 
+- Front door paint?
+- Fix unlevel brick towers?
