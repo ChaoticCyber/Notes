@@ -59,7 +59,7 @@ Inside stuff
 - Fix drywall behind Washer & dryer
 - Fix the kitchen passthrough
 - Clean Air vents
-- Clean toilet connec
+- Clean toilet connectors
 
 Outside Stuff
 - Clean out Greenhouse
