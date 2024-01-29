@@ -6,16 +6,6 @@ Pending: The arrival of the 8 additional bins
 
 ### Before Truck
 
-Clear out the kitchen
-Consolidate the shed items
-- Throw away shed stuff
-Take apart one of the queen frames
-- Where store the mattresses in the mean time?
-Take apart the dining room table
-move stuff near the Green house to the garage
-
-
-
 
 01 FEB Day -9
 02 FEB Day -8
@@ -27,18 +17,23 @@ move stuff near the Green house to the garage
 - Rainey Birthday
 - No packing up on this date
 06 FEB Day -4
+- move stuff near the Green house to the garage
 07 FEB Day -3
+- Clear out the remaining kitchen items
+- Take apart one of the queen frames
+- Where store the mattresses in the mean time?
 08 FEB Day -2
 - CIF Turn in
 - Start the staging of things for the moving truck
 09 FEB Day -1
 - Have everything staged as much as possible
-- 
+- Take apart the dining room table
+- Move the bed into the living room
 10 FEB Day 0: Saturday
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
-11 FEBDay 1: Sun
+11 FEB Day 1: Sun
 - Leave early to MD (0400)
 - Arrive 1500ish
 - Get a full CAT scale ticket
