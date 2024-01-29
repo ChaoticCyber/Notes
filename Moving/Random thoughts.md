@@ -16,21 +16,26 @@ move stuff from the Green house to the shed
 Consolidate the Garage items into bins
 
 
-Day 1: Saturday 10 FEB
+
+
+
+
+09 FEB Day -1
+10 FEB Day 0: Saturday
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
-Day 2: Sun 11 FEB
+11 FEBDay 2: Sun
 - Leave early to MD (0400)
 - Arrive 1500ish
 - Get a full CAT scale ticket
 - Unload a little bit
-Day 3:  Mon 12 FEB
+12 FEB Day 3:  Mon
 - Unload remaining items
 - Return truck
-Day 4: Tue 13 FEB
+13 FEB Day 4: Tue 
 - orgainze / relax
-Day 5: Wed 14 FEB
+14 FEB Day 5: Wed 
 - Airport to AGS
 
 
