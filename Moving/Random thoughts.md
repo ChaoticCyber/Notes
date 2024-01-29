@@ -1,10 +1,7 @@
-
-Pending: The arrival of the 8 additional bins
-
-
 ## To do
 
-### Before Truck
+
+
 
 
 01 FEB Day -9
@@ -13,9 +10,9 @@ Pending: The arrival of the 8 additional bins
 - move stuff near the Green house to the garage
 04 FEB Day -6
 - Consolidate the Garage items into bins
+#  *** Rainey Birthday ***
 05 FEB Day -5
-- Rainey Birthday
-- No packing up on this date
+- No packing up on this date?
 06 FEB Day -4
 - move stuff near the Green house to the garage
 07 FEB Day -3
@@ -24,11 +21,16 @@ Pending: The arrival of the 8 additional bins
 - Where store the mattresses in the mean time?
 08 FEB Day -2
 - CIF Turn in
-- Start the staging of things for the moving truck
+- Move office computer and desk
+	- Computer is not going on truck
+	- Do I keep or take the desk since I'm not taking computer?
+	- The 4 monitors probably need to go cause they are bulky
+		- Blankets bag to protect monitors?
 09 FEB Day -1
 - Have everything staged as much as possible
 - Take apart the dining room table
 - Move the bed into the living room
+# Truck Arrival
 10 FEB Day 0: Saturday
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
