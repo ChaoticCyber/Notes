@@ -12,30 +12,43 @@ Consolidate the shed items
 Take apart one of the queen frames
 - Where store the mattresses in the mean time?
 Take apart the dining room table
-move stuff from the Green house to the shed
-Consolidate the Garage items into bins
+move stuff near the Green house to the garage
 
 
 
 
-
-
+01 FEB Day -9
+02 FEB Day -8
+03 FEB Day -7
+- move stuff near the Green house to the garage
+04 FEB Day -6
+- Consolidate the Garage items into bins
+05 FEB Day -5
+- Rainey Birthday
+- No packing up on this date
+06 FEB Day -4
+07 FEB Day -3
+08 FEB Day -2
+- CIF Turn in
+- Start the staging of things for the moving truck
 09 FEB Day -1
+- Have everything staged as much as possible
+- 
 10 FEB Day 0: Saturday
 - Pick up the truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
-11 FEBDay 2: Sun
+11 FEBDay 1: Sun
 - Leave early to MD (0400)
 - Arrive 1500ish
 - Get a full CAT scale ticket
 - Unload a little bit
-12 FEB Day 3:  Mon
+12 FEB Day 2:  Mon
 - Unload remaining items
 - Return truck
-13 FEB Day 4: Tue 
+13 FEB Day 3: Tue 
 - orgainze / relax
-14 FEB Day 5: Wed 
+14 FEB Day 4: Wed 
 - Airport to AGS
 
 
