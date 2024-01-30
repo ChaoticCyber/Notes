@@ -41,3 +41,14 @@ gpg -d [decryptfilename] | tar -xvzf -
 
 
 Blood // Water - Grandson
+Letting you go  - bfmv
+Moving on - Asking Alexandria
+Limits - Bad Omens
+Just pretend - 
+Choke - The Warning
+Deafening - Solence
+Neon Grave - Dayseeker
+Nero Forte - Slipknot
+Crooked Halos - Dragged Under
+Polyamorous - Breaking Benjamin
+Room to Breathe - You me at six
