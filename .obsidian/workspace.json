@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moving/Random thoughts.md"
+                "file": "Notes.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "59b8fcd2c5bdd18b",
   "lastOpenFiles": [
+    "README.md",
+    "Moving/Random thoughts.md",
     "images/Pasted image 20240126115450.png",
     "Notes.md",
-    "Moving/Random thoughts.md",
     "Moving",
     "Go/Basics/Project Creation.md",
     "Converge/Screenshots.md",
@@ -214,7 +215,6 @@
     "Converge/10.7.0.8 SQLDATA01.supercorp.local",
     "Converge/10.7.0.7 DEV01.supercorp.local",
     "images/Pasted image 20231128090359.png",
-    "images/Pasted image 20231126180909.png",
-    "images/Pasted image 20231126164443.png"
+    "images/Pasted image 20231126180909.png"
   ]
 }

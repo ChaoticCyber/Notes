@@ -37,3 +37,7 @@ tar czvpf - ./[encdir] | gpg --symmetric --no-symkey-cache --cipher-algo aes256 
 
 gpg -d [decryptfilename] | tar -xvzf -
 ```
+
+
+
+Blood // Water - Grandson
