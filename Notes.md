@@ -39,12 +39,12 @@ gpg -d [decryptfilename] | tar -xvzf -
 ```
 
 
+Ok so it's more than 5 but I just jumped through spotify and pulled out a bunch of songs that I absolutely love. Most I probably heard on SiriusXM and was either a one hit wonder or just a classic that's enjoyable.
 
-Blood // Water - Grandson
-Letting you go  - bfmv
+Bittersweet Memories - Bullet for my valentine
 Moving on - Asking Alexandria
 Limits - Bad Omens
-Just pretend - 
+Just pretend - Bad omens
 Choke - The Warning
 Deafening - Solence
 Neon Grave - Dayseeker
@@ -52,3 +52,5 @@ Nero Forte - Slipknot
 Crooked Halos - Dragged Under
 Polyamorous - Breaking Benjamin
 Room to Breathe - You me at six
+Everlong - Foo Fighters
+Blood // Water - Grandson
