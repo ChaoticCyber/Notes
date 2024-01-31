@@ -4,6 +4,8 @@ Start building the stairs door
 Paint the Trailor
 
 
+
+
 01 FEB Day -9
 02 FEB Day -8
 03 FEB Day -7 (15m)
@@ -19,7 +21,7 @@ Paint the Trailor
 - Clear out the remaining kitchen items
 - Take apart one of the queen frames
 - Where store the mattresses in the mean time?
-# ***08 FEB CIF Turn in
+# ***08 FEB CIF Turn in 0900
 - Move office computer and desk
 	- Computer is not going on truck
 	- Do I keep or take the desk since I'm not taking computer?
@@ -29,9 +31,7 @@ Paint the Trailor
 - Have everything staged as much as possible
 - Take apart the dining room table
 - Move the bed into the living room
-# Truck Arrival
-10 FEB Day 0: Saturday
-- Pick up the truck 1000
+# ***10 FEB Pick up the Penske Truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
 11 FEB Day 1: Sun
