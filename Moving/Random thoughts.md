@@ -1,6 +1,6 @@
 ## To do
-
-
+Get rainey bday cake
+Start building the stairs door
 
 
 
