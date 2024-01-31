@@ -10,12 +10,12 @@
 - move stuff near the Green house to the garage
 04 FEB Day -6
 - Consolidate the Garage items into bins
-#  *** Rainey Birthday ***
-05 FEB Day -5
+#  ***05 FEB Rainey Birthday
 - No packing up on this date?
+
 06 FEB Day -4
 - move stuff near the Green house to the garage
-07 FEB Day -3
+#  ***07 FEB Realtor walkthrough 1430
 - Clear out the remaining kitchen items
 - Take apart one of the queen frames
 - Where store the mattresses in the mean time?
