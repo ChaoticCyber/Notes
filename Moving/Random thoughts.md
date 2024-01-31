@@ -30,7 +30,7 @@ Paint the Trailor
 09 FEB Day -1
 - Have everything staged as much as possible
 - Take apart the dining room table
-- Move the bed into the living room
+- Move the bed into the living room and clear everything as much as possible
 # ***10 FEB Pick up the Penske Truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
