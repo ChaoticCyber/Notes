@@ -7,10 +7,12 @@ Paint the Trailor
 
 01 FEB Day - Oh no, this is today...
 02 FEB Day - Last day of "work"
-03 FEB Day
+03 FEB Day - Saturday
 - move stuff near the Green house to the garage
-04 FEB Day
 - Consolidate the Garage items into bins
+04 FEB Day
+- Pick up Rainey Cake
+- Prep house for people
 #  ***05 FEB Rainey Birthday
 - No packing up on this date?
 
