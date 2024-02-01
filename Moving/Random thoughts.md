@@ -28,12 +28,14 @@ Paint the Trailor
 - Move office computer and desk
 	- Computer is not going on truck
 	- Do I keep or take the desk since I'm not taking computer?
+		- Is the laptop enough?
 	- The 4 monitors probably need to go cause they are bulky
 		- Blankets bag to protect monitors?
+		- Place them on the couch in the truck and rope down?
 
 09 FEB Day
 - Have everything staged as much as possible
-- Move the bed into the living room and clear everything as much as possible
+- Move a bed into the living room and clear everything out the rooms as much as possible
 # ***10 FEB Pick up the Penske Truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
