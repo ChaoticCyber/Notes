@@ -21,6 +21,7 @@ Paint the Trailor
 - Clear out the remaining kitchen items
 - Take apart one of the queen frames
 - Where store the mattresses in the mean time?
+- Inventory and bag up CIF Items
 # ***08 FEB CIF Turn in 0900
 - Move office computer and desk
 	- Computer is not going on truck
