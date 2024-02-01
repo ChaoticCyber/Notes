@@ -13,6 +13,7 @@ Paint the Trailor
 04 FEB Day
 - Pick up Rainey Cake
 - Prep house for people
+- Disassemble smith machine
 #  ***05 FEB Rainey Birthday
 - No packing up on this date?
 
