@@ -5,23 +5,23 @@ Paint the Trailor
 
 
 
-
-01 FEB Day -9
-02 FEB Day -8
-03 FEB Day -7 (15m)
+01 FEB Day - Oh no, this is today...
+02 FEB Day - Last day of "work"
+03 FEB Day
 - move stuff near the Green house to the garage
-04 FEB Day -6 (2h)
+04 FEB Day
 - Consolidate the Garage items into bins
 #  ***05 FEB Rainey Birthday
 - No packing up on this date?
 
-06 FEB Day -4 (2h)
+06 FEB Day
 - Prep for the realtor walkthrough
+- Take apart the dining room table
 - Clear out the remaining kitchen items
 - Take apart one of the queen frames
 	- Where store the mattresses in the mean time?
 #  ***07 FEB Realtor walkthrough 1430
-- Inventory and bag up CIF Items
+- Re-inventory and bag up CIF Items
 # ***08 FEB CIF Turn in 0900
 - Move office computer and desk
 	- Computer is not going on truck
@@ -29,9 +29,8 @@ Paint the Trailor
 	- The 4 monitors probably need to go cause they are bulky
 		- Blankets bag to protect monitors?
 
-09 FEB Day -1
+09 FEB Day
 - Have everything staged as much as possible
-- Take apart the dining room table
 - Move the bed into the living room and clear everything as much as possible
 # ***10 FEB Pick up the Penske Truck 1000
 - Drive to get an empty weight ticket
@@ -62,7 +61,7 @@ Not on truck
 - paint sprayer
 
 
-Inside stuff
+Inside work stuff
 - Fill holes in the sheetrock
 - Replace doors
 - Fix the chewed up trim
@@ -77,7 +76,7 @@ Inside stuff
 - Replace carpet
 - Mud & tape garage
 
-Outside Stuff
+Outside work Stuff
 - Clean out Greenhouse
 - Paint shed
 - Fill holes in siding and paint
