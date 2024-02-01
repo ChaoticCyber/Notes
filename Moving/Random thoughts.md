@@ -15,12 +15,12 @@ Paint the Trailor
 - Prep house for people
 - Disassemble smith machine
 #  ***05 FEB Rainey Birthday
-- No packing up on this date?
+- It's Rainey's day...
 
 06 FEB Day
 - Prep for the realtor walkthrough
 - Take apart the dining room table
-- Clear out the remaining kitchen items
+- Clear out the remaining kitchen cabinet items
 - Take apart one of the queen frames
 	- Where store the mattresses in the mean time?
 #  ***07 FEB Realtor walkthrough 1430
