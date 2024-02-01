@@ -17,10 +17,10 @@ Paint the Trailor
 
 06 FEB Day -4 (2h)
 - Prep for the realtor walkthrough
-#  ***07 FEB Realtor walkthrough 1430
 - Clear out the remaining kitchen items
 - Take apart one of the queen frames
-- Where store the mattresses in the mean time?
+	- Where store the mattresses in the mean time?
+#  ***07 FEB Realtor walkthrough 1430
 - Inventory and bag up CIF Items
 # ***08 FEB CIF Turn in 0900
 - Move office computer and desk
@@ -28,6 +28,7 @@ Paint the Trailor
 	- Do I keep or take the desk since I'm not taking computer?
 	- The 4 monitors probably need to go cause they are bulky
 		- Blankets bag to protect monitors?
+
 09 FEB Day -1
 - Have everything staged as much as possible
 - Take apart the dining room table
