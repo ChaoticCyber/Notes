@@ -15,7 +15,10 @@ Paint the Trailor
 - Prep house for people
 - Disassemble smith machine
 #  ***05 FEB Rainey Birthday
-- It's Rainey's day...
+- It's Rainey's day... 
+
+usarmy.gordon.cyber-pro-bde.list.tf-hunter-cte@army.mil
+usarmy.eisenhower.cyber-pro-bde.list.tf-hunter-cte@army.mil
 
 06 FEB Day
 - Prep for the realtor walkthrough
