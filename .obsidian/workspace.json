@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f59dade4593cd9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blah.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "blah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moving/Random thoughts.md",
+                "file": "blah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moving/Random thoughts.md"
+                "file": "blah.md"
               }
             }
           },
@@ -168,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59b8fcd2c5bdd18b",
+  "active": "f59dade4593cd9a4",
   "lastOpenFiles": [
     "Notes.md",
-    "README.md",
+    "blah.md",
     "Moving/Random thoughts.md",
+    "README.md",
     "images/Pasted image 20240126115450.png",
     "Moving",
     "Go/Basics/Project Creation.md",
@@ -208,7 +221,6 @@
     "Converge/10.7.0.4 - Copy",
     "Converge/10.7.0.127 Yavin4.supercorp.local/2_Interesting.md",
     "Converge/10.7.0.127 Yavin4.supercorp.local/1_Initial Access.md",
-    "Converge/10.7.0.127 Yavin4.supercorp.local/3_Privesc.md",
     "Converge/10.7.0.127 Yavin4.supercorp.local",
     "Converge/10.7.0.106 DESKTOP-DOG0A1R.supercorp.local",
     "Converge/10.7.0.99 GUAC",
