@@ -1,10 +1,11 @@
 
+Things you will need prior to submitting an application
 
+Firearm Training (if needed)
+https://mdsp.maryland.gov/Organization/Pages/CriminalInvestigationBureau/LicensingDivision/Training/WearandCarryPermit.aspx
 
-You will 
-Fingerprinting Services
+Fingerprinting Services completed
 https://www.dpscs.state.md.us/publicservs/fingerprint.shtml
-
 
 
 
