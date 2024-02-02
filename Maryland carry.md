@@ -1,4 +1,7 @@
 
+Need to attach a DD214
+
+
 Things you will need prior to submitting an application
 
 Firearm Training (if needed)
