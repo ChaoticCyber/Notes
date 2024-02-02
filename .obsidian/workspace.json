@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maryland carry.md",
+                "file": "Moving/Random thoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maryland carry.md",
+                "file": "Moving/Random thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maryland carry.md",
+                "file": "Moving/Random thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maryland carry.md"
+                "file": "Moving/Random thoughts.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "f59dade4593cd9a4",
   "lastOpenFiles": [
+    "Maryland carry.md",
     "images/Pasted image 20240202094718.png",
     "Notes.md",
-    "Maryland carry.md",
     "Moving/Random thoughts.md",
     "README.md",
     "images/Pasted image 20240126115450.png",
@@ -226,7 +226,6 @@
     "Converge/10.7.0.99 GUAC",
     "Converge/10.7.0.8 SQLDATA01.supercorp.local",
     "Converge/10.7.0.7 DEV01.supercorp.local",
-    "images/Pasted image 20231128090359.png",
-    "images/Pasted image 20231126180909.png"
+    "images/Pasted image 20231128090359.png"
   ]
 }
