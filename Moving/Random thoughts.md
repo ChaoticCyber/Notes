@@ -24,6 +24,10 @@ Paint the Trailor
 - Take apart one of the queen frames
 	- Where store the mattresses in the mean time?
 #  ***07 FEB Realtor walkthrough 1430
+
+6V2js9rUD8H%@RSJdz
+
+
 - Re-inventory and bag up CIF Items
 # ***08 FEB CIF Turn in 0900
 - Move office computer and desk
