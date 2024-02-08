@@ -1,44 +1,21 @@
 ## To do
-Get Rainey bday cake
 Start building the stairs door
 Paint the Trailor
 
-
-
-01 FEB Day - Oh no, this is today...
-02 FEB Day - Last day of "work"
-03 FEB Day - Saturday
-- move stuff near the Green house to the garage
-
-04 FEB Day
-- Pick up Rainey Cake
-- Prep house for people
-#  ***05 FEB Rainey Birthday
-- It's Rainey's day... 
-
-usarmy.gordon.cyber-pro-bde.list.tf-hunter-cte@army.mil
-usarmy.eisenhower.cyber-pro-bde.list.tf-hunter-cte@army.mil
-
-06 FEB Day
-- Prep for the realtor walkthrough
-- Take apart the dining room table
-- Clear out the remaining kitchen cabinet items
-- Take apart one of the queen frames
-	- Where store the mattresses in the mean time?
 #  ***07 FEB Realtor walkthrough 1430
 - Re-inventory and bag up CIF Items
+- Prep for the realtor walkthrough
+- move stuff near the Green house to the garage
+- Take apart one of the queen frames
+	- Where store the mattresses in the mean time?
 # ***08 FEB CIF Turn in 0900
 - Move office computer and desk
 	- Computer is not going on truck
 	- Do I keep or take the desk since I'm not taking computer?
-		- Is the laptop enough?
-	- The 4 monitors probably need to go cause they are bulky
-		- Blankets bag to protect monitors?
-		- Place them on the couch in the truck and rope down?
+		- Is the laptop enough--- yes
 
 09 FEB Day
 - Have everything staged as much as possible
-- Move a bed into the living room and clear everything out the rooms as much as possible
 # ***10 FEB Pick up the Penske Truck 1000
 - Drive to get an empty weight ticket
 - Load all the items into truck
